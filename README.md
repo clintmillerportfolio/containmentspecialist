@@ -13,5 +13,8 @@ In 2020, the Covid 19 pandemic has caught us all off guard. Contact tracing is a
 - Inform Apple & Google's system level contact tracing integration
 - Create an effective accepted for this pandemic and future ones
 
+# Challenges
+- [It is diffucult to force adoption,](https://www.businessinsider.com/apple-google-coronavirus-contact-tracing-coronavirus-bound-to-fail-2020-4) less adoption makes the entire process less relevant. 
+
 Want to learn more?
 [Get Started Here](https://github.com/clintmillerportfolio/containmentspecialist/wiki)
