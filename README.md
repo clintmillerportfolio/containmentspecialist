@@ -11,11 +11,11 @@ In 2020, the Covid 19 pandemic has caught us all off guard. Contact tracing is a
 - Drive adoption of contract tracing technology
 - Inform other designers & developers on best practices for digital contact tracing apps
 - Inform Apple & Google's system level contact tracing integration
-- Create an effective soloution for this pandemic and future ones
+- Create an effective accepted for this pandemic and future ones
 
 # Contributing to this project
 ## Submissions
-Pull requests will be reviewed within a week and acdepted based on their relevance to the **Problem Statement.** All types of submissions are welcomed from any party. I expect to spend aproximatetly 4-8 hours a week on this project. Please confine communication about this project to this repository. Logictical coordination by other methods is find. (ex. I will email/text the first round of contributers to ask for submissions)
+Pull requests will be reviewed within a week and approximately based on their relevance to the **Problem Statement.** All types of submissions are welcomed from any party. I expect to spend approximately 4-8 hours a week on this project. Please confine communication about this project to this repository. Contributor coordination by other methods is fine. (ex. I will email/text the first round of contributers to ask for submissions)
 
 To me, it makes sense to use Google Docs to manage some artifacts to enable real time collaboration. If this project becomes large enough, it may need to move back to having all files managed on Github. I'm open to all suggestions on process for managing this project. 
 
