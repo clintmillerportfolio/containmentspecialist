@@ -53,6 +53,8 @@ https://www.blog.google/documents/57/Overview_of_COVID-19_Contact_Tracing_Using_
 ## Current Needs 
 - User Research
 - Competitive Analysis
+- Resources
+- Contributors
 
 ## Future Needs 
 - Customer Journeys
