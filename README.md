@@ -12,3 +12,6 @@ In 2020, the Covid 19 pandemic has caught us all off guard. Contact tracing is a
 - Inform other designers & developers on best practices for digital contact tracing apps
 - Inform Apple & Google's system level contact tracing integration
 - Create an effective accepted for this pandemic and future ones
+
+Want to learn more?
+[Get Started Here](https://github.com/clintmillerportfolio/containmentspecialist/wiki)
