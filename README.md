@@ -1,5 +1,7 @@
 # The Containment Specialists
 An open source design for digital contact tracing
+![Pandemic Role Card of Containment Specialist](img/pic1547116.png)
+
 
 # Problem Statement
 In 2020, the Covid 19 pandemic has caught us all off guard. Contact tracing is an effectice offline method of reducing the spread of a contagion. [Apple and Google are working together](https://www.theverge.com/interface/2020/4/11/21216652/apple-google-contact-tracing-covid-19-coronavirus-api-public-health-app-challenges) on contact tracing APIs, with system level implementation to follow. Effectice product and service design around these APIs could:
@@ -12,7 +14,7 @@ In 2020, the Covid 19 pandemic has caught us all off guard. Contact tracing is a
 
 # Contributing to this project
 ## Submissions
-Pull requests will be reviewed within a week and acdepted based on their relevance to the **Problem Statement.** All types of submissions are welcomed. I expect to spend aproximatetly 4-8 hours a week on this project. Please confine communication about this project to this repository. Logictical coordination by other methods is find. (ex. I will email/text the first round of contributers to ask for submissions)
+Pull requests will be reviewed within a week and acdepted based on their relevance to the **Problem Statement.** All types of submissions are welcomed from any party. I expect to spend aproximatetly 4-8 hours a week on this project. Please confine communication about this project to this repository. Logictical coordination by other methods is find. (ex. I will email/text the first round of contributers to ask for submissions)
 
 To me, it makes sense to use Google Docs to manage some artifacts to enable real time collaboration. If this project becomes large enough, it may need to move back to having all files managed on Github. I'm open to all suggestions on process for managing this project. 
 
@@ -39,11 +41,13 @@ https://www.apple.com/covid19/contacttracing
 https://www.blog.google/documents/57/Overview_of_COVID-19_Contact_Tracing_Using_BLE.pdf
 
 ## People
-[Pan-European Privacy-Preserving Proximity Tracing](Pan-European Privacy-Preserving Proximity Tracing)
+[Pan-European Privacy-Preserving Proximity Tracing](https://www.pepp-pt.org)
 
 # Roadmap
 ## In Progress
 - Digital Ethnography Study on In Person Contact Tracing
+- Resource Gathering
+- Contributer Recruitment
 
 ## Current Needs 
 - User Research
